@@ -57,7 +57,7 @@ EndK:
         B           NxtCol
 
 EndCol: 
-		ADD         r7, 1                   //row++
+	ADD         r7, 1                   //row++
         B           NxtRow
 
 EndRow:
